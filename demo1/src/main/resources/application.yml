@@ -1,0 +1,7 @@
+server:
+  port: 8001
+
+logging:
+  config: logback.xml
+  level:
+    com.example.demo1.dao: trace
